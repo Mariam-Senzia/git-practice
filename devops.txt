@@ -1,0 +1,1 @@
+Devops is mainly to do with automation,monitoring and testing

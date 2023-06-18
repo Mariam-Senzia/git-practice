@@ -1,3 +1,5 @@
 #!/usr/bin/bash
 
 echo "Hello World"
+
+echo "I am a tech enthusiast"
